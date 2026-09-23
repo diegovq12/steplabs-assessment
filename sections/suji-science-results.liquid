@@ -120,8 +120,10 @@
 
   .suji-science__layout {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
     gap: 40px;
+    width: min(100%, 1440px);
+    margin-inline: auto;
     padding: 40px 64px;
   }
 
@@ -154,7 +156,6 @@
     align-items: flex-start;
     gap: 32px;
     width: 100%;
-    max-width: 464px;
     min-width: 0;
   }
 

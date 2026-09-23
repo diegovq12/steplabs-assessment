@@ -1,4 +1,4 @@
-<section class="sui-hero" id="SuiHero-{{ section.id }}">
+<section class="sui-hero full-width" id="SuiHero-{{ section.id }}">
      <div class="sui-hero__layout">
        <div class="sui-hero__content">
          <div class="sui-hero__intro">
@@ -140,7 +140,9 @@
      .sui-hero__layout {
        display: grid;
        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+       width: min(100%, 1440px);
        min-height: 580px;
+       margin-inline: auto;
      }
 
      .sui-hero__content {
