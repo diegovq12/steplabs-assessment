@@ -1,0 +1,130 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "suji_hero_Peik9Q": {
+      "type": "suji-hero",
+      "blocks": {
+        "benefit_fcD6WX": {
+          "type": "benefit",
+          "settings": {
+            "icon": "shopify://shop_images/time-icon.svg_fill.svg",
+            "icon_alt": "",
+            "text": "Activates muscles & builds strength"
+          }
+        },
+        "benefit_cAFkkn": {
+          "type": "benefit",
+          "settings": {
+            "icon": "shopify://shop_images/compression-icon.svg-1.svg",
+            "icon_alt": "",
+            "text": "Boosts recovery & circulation"
+          }
+        },
+        "benefit_4VynyW": {
+          "type": "benefit",
+          "settings": {
+            "icon": "shopify://shop_images/compression-icon.svg-2.svg",
+            "icon_alt": "",
+            "text": "Supports healthy joints & movement"
+          }
+        }
+      },
+      "block_order": [
+        "benefit_fcD6WX",
+        "benefit_cAFkkn",
+        "benefit_4VynyW"
+      ],
+      "name": "Suji hero",
+      "settings": {
+        "rating": "★★★★★",
+        "rating_label": "Five out of five stars",
+        "star_icon": "shopify://shop_images/Icon.svg",
+        "star_count": 5,
+        "trust_text": "Trusted by 1,000+ happy customers",
+        "heading": "Wake Up The",
+        "heading_emphasis": "Muscles That Matter.",
+        "description": "<p>Suji delivers science-backed targeted compression — pain relief, muscle activation, and lasting strength in minutes, right from home.</p>",
+        "primary_label": "Try Suji",
+        "primary_link": "",
+        "secondary_label": "How It Works",
+        "secondary_link": "",
+        "guarantee_text": "30-day money back guarantee",
+        "guarantee_icon": "shopify://shop_images/time-icon.svg_fill.svg",
+        "desktop_image": "shopify://shop_images/image_8.png",
+        "image_alt": ""
+      }
+    },
+    "suji_science_results_yK87hW": {
+      "type": "suji-science-results",
+      "blocks": {
+        "metric_LUaxQm": {
+          "type": "metric",
+          "settings": {
+            "category": "strength",
+            "study_label": "In a clinical study¹",
+            "value": "2.0x",
+            "description": "<p>muscle strength increase vs traditional low-load training</p>"
+          }
+        },
+        "metric_4YEn3L": {
+          "type": "metric",
+          "settings": {
+            "category": "strength",
+            "study_label": "In a systematic review²",
+            "value": "3.2X",
+            "description": "<p>greater muscle mass gains compared to walking or light training without Targeted Compression/BFR</p>"
+          }
+        },
+        "metric_ePHjDf": {
+          "type": "metric",
+          "settings": {
+            "category": "recovery",
+            "study_label": "In a recovery study³",
+            "value": "78%",
+            "description": "<p>faster muscle recovery time post-exercise with Targeted Compression/BFR compared to passive rest</p>"
+          }
+        },
+        "metric_b88W3L": {
+          "type": "metric",
+          "settings": {
+            "category": "recovery",
+            "study_label": "In a clinical trial⁴",
+            "value": "40-50%",
+            "description": "<p>pain reduction reported in individuals with chronic musculoskeletal pain</p>"
+          }
+        }
+      },
+      "block_order": [
+        "metric_LUaxQm",
+        "metric_4YEn3L",
+        "metric_ePHjDf",
+        "metric_b88W3L"
+      ],
+      "name": "Suji science results",
+      "settings": {
+        "product_image": "shopify://shop_images/Group_2864_1_14f58c9d-9a78-473d-981d-6121d4f3cb0e_png.png",
+        "mobile_image": "shopify://shop_images/Group_2864_1_14f58c9d-9a78-473d-981d-6121d4f3cb0e_png.png",
+        "image_alt": "",
+        "heading_first": "Backed by Science.",
+        "heading_second": "Proven by Results.",
+        "strength_heading": "Build lasting strength in just 3 short sessions a week",
+        "recovery_heading": "Clinically shown to speed up recovery",
+        "button_label": "See The Science",
+        "button_link": "shopify://pages/contact",
+        "sources": "¹Yasuda et al., 2010  ²Loenneke et al., 2012\n³Takarada et al., 2000  ⁴Hughes et al., 2017"
+      }
+    }
+  },
+  "order": [
+    "suji_hero_Peik9Q",
+    "suji_science_results_yK87hW"
+  ]
+}
